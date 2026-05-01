@@ -34,7 +34,7 @@ The dataset includes:
 * Geographic data (state)
 
 ## ⚙️ Methodology
-1. Data Cleaning & Feature Engineering (Python)
+## 1. Data Cleaning & Feature Engineering (Python)
 * Handled missing values and formatting issues
 * Created key features:
     * risk_segment (Low / Medium / High)
@@ -68,7 +68,7 @@ An interactive dashboard was built to:
 * Support data-driven decision making
 
 📊 Dashboard Preview
-![alt text](Loan-Portfolio-Dashboard.png)
+![alt text](dashboard/Loan-Portfolio-Dashboard.png)
 
 ## 🔍 Key Insights
 * 🔴 High Risk borrowers have a 30.45% default rate (~4x higher than Low Risk)
