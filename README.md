@@ -34,7 +34,7 @@ The dataset includes:
 * Geographic data (state)
 
 ## ⚙️ Methodology
-1. Data Cleaning & Feature Engineering (Python)
+## 1. Data Cleaning & Feature Engineering (Python)
 * Handled missing values and formatting issues
 * Created key features:
     * risk_segment (Low / Medium / High)
