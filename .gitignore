@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional - recommended for large files)
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+
+#Docs
+docs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.tmp
+
+# Logs
+*.log
